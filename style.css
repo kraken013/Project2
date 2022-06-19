@@ -1,0 +1,131 @@
+.btn-secondary{
+    background-color:white!important;
+    color: black!important;
+    width: 200px!important;
+    border-color: rgba(0, 0, 0, 0.158)!important;
+}
+
+.btn-secondary:hover{
+    box-shadow: 2px black!important;
+}
+
+a{
+    color: black!important;
+    text-decoration: none!important;
+  }
+  
+  nav {
+    display: flex;
+    text-align: center;
+    height: 90px;
+    width: 100%;
+    justify-content: space-around;
+    position: fixed;
+    top: 70px;
+    background-color: white;
+    align-items: center;
+    margin-left: 2%;
+  }
+  nav img {
+    height: 24px;
+    width: 24px;
+  }
+  nav #fleche {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.096);
+  }
+  nav #filtres {
+    border-radius: 12px;
+    width: 90px;
+    height: 50px;
+    margin-right: 5%;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.096);
+  }
+  nav #fleche:hover {
+    cursor: pointer;
+  }
+  nav #filtres {
+    cursor: pointer;
+  }
+  
+  .cube1 {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    background-color: white;
+    top: 0;
+  }
+  .cube1 img {
+    width: 48px;
+    height: 64px;
+  }
+  .cube1 a {
+    margin-left: 7%;
+  }
+  .cube1 .logoo {
+    margin-right: 10%;
+    margin-left: 4%;
+  }
+  .cube1 .search {
+    width: 370px;
+    height: 35px;
+    font-size: medium;
+    border-radius: 16px;
+    border: 1px solid rgba(128, 128, 128, 0.623);
+  }
+
+  #btnGroupDrop1{
+    width: 100px!important;
+    height: auto!important;
+  }
+  #btnGroupDrop1 img{
+    width: auto!important;
+    height: 35px!important;
+  }
+
+  
+  .classement {
+    margin-top: 180px;
+    margin-left: 5%;
+  }
+  .classement span {
+    font-size: 18px;
+  }
+  
+  .cube3 {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .cube3 article {
+    margin: auto;
+  }
+  .cube3 img {
+    display: flex;
+    border-radius: 20px;
+    height: 303px;
+    width: 319px;
+  }
+  
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 70px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    align-items: center;
+    background-color: white;
+  }
