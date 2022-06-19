@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, sofiane</h1>
+<h1 align="center">👋 Projet AirBnb</h1>
 - j'ai travailler sur le project **Réplique du home AirBnb**
 
 - 🌱 J'y ai appris à utilisés les technologies suivantes : **html,Css, Scss, Bootstrap, mediaqueries**
